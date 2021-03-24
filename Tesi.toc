@@ -1,0 +1,52 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Introduction}{}{chapter*.2}
+\contentsline {chapter}{\numberline {1}The Framework}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Pre-Quantum Diffie Hellman}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}The Quantum Threat}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Quantum and Post-Quantum Cryptography}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Post-Quantum Cryptography Standardization}{10}{section.1.4}
+\contentsline {chapter}{\numberline {2}Elliptic Curves}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Elementary Results}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Maps Between Elliptic Curves}{18}{section.2.2}
+\contentsline {section}{\numberline {2.3}Nontrivial Results}{28}{section.2.3}
+\contentsline {chapter}{\numberline {3}Isogeny Graphs}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Complex Multiplication}{31}{section.3.1}
+\contentsline {section}{\numberline {3.2}Quaternionic Multiplication}{34}{section.3.2}
+\contentsline {section}{\numberline {3.3}Graphs}{35}{section.3.3}
+\contentsline {section}{\numberline {3.4}$\l $-Isogeny Graphs}{39}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}$\End (E) \cong \mathbb {Z}$}{40}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}$\End (E) \cong \ensuremath {\mathcal {O}}\subseteq \mathbb {Q}(\sqrt {-d})$}{41}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}$\End (E) \cong \ensuremath {\mathcal {O}}\subseteq B_{p,\infty }$}{46}{subsection.3.4.3}
+\contentsline {chapter}{\numberline {4}Isogeny-Based Cryptography}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}CRS}{53}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Homogeneous Spaces}{54}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}The Protocol}{57}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Security}{58}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}SIDH}{58}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}The Protocol}{59}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Security}{60}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}CSIDH}{61}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}The Protocol}{62}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Design Choices}{63}{subsection.4.3.2}
+\contentsline {subsubsection}{Supersingular curves}{63}{section*.58}
+\contentsline {subsubsection}{Parameters}{64}{section*.59}
+\contentsline {subsubsection}{Rational Elkies Primes}{64}{section*.60}
+\contentsline {subsubsection}{Sampling From the Class Group}{64}{section*.61}
+\contentsline {subsubsection}{Evaluating the Class Group Action}{65}{section*.62}
+\contentsline {subsection}{\numberline {4.3.3}Public-Key Validation}{66}{subsection.4.3.3}
+\contentsline {subsubsection}{Verifying Supersingularity}{66}{section*.63}
+\contentsline {subsection}{\numberline {4.3.4}Security}{67}{subsection.4.3.4}
+\contentsline {subsubsection}{Classical Security}{68}{section*.67}
+\contentsline {paragraph}{Exhaustive Key Search.}{68}{section*.68}
+\contentsline {subsubsection}{Quantum Security}{71}{section*.72}
+\contentsline {subsubsection}{Instantiations}{75}{section*.76}
+\contentsline {subsection}{\numberline {4.3.5}Implementation}{76}{subsection.4.3.5}
+\contentsline {subsubsection}{Montgomery Curves}{77}{section*.81}
+\contentsline {subsubsection}{Evaluating the Class Group Action}{78}{section*.82}
+\contentsline {subsubsection}{Performance}{80}{section*.84}
+\contentsline {subsection}{\numberline {4.3.6}Conclusions}{82}{subsection.4.3.6}
+\contentsline {chapter}{\numberline {A}Quantum Computing}{86}{appendix.A}
+\contentsline {section}{\numberline {A.1}Qubit}{86}{section.A.1}
+\contentsline {section}{\numberline {A.2}Quantum Gates}{88}{section.A.2}
+\contentsline {section}{\numberline {A.3}Quantum Algorithms}{92}{section.A.3}
+\contentsline {chapter}{Bibliography}{95}{Item.30}
